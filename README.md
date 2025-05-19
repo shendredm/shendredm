@@ -1,7 +1,7 @@
 Hi there 👋  
 I'm **Dhananjay Shendre**, a Robotics Systems Engineer passionate about building intelligent, agile robots!
 
-🔭 I’m currently working at **Parth Infotech Ltd.**, deputed to the **Centre for Systems and Technologies for Advanced Robotics (C-STAR)** at **R&DE(E), DRDO Pune**, where I focus on reinforcement learning for locomotion, SLAM, and robot control with ROS2.  
+🔭 I’m currently working on reinforcement learning for locomotion, SLAM, and robot control with ROS2.  
 
 🌱 I’m currently learning advanced machine learning techniques, real-time robot control, and deploying sim-to-real robotics systems.  
 
