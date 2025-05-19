@@ -20,4 +20,4 @@ I'm **Dhananjay Shendre**, a Robotics Systems Engineer passionate about building
 
 😄 Pronouns: he/him  
 
-⚡ Fun fact: I find it fascinating that Boston Dynamics' robots can dance better than most humans.🤖🕺
+⚡ Fun fact: I find it fascinating that humonoid robots can dance better than most humans.🤖🕺
